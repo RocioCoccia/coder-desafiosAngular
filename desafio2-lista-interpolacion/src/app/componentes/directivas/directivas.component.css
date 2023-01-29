@@ -1,0 +1,29 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subtitulo{
+    font-size: 2 em;
+}
+
+h2{
+    text-align: center;
+    background-color:beige;
+    margin: 50px;
+}
+
+.borde-verde{
+    border: 3 px solid black;
+}
+
+.borde-rojo{
+    border: 3 px solid red;
+}
+
+.activo{
+    color: green;
+}
+
+.inactivo{
+    color: red;
+}
+
