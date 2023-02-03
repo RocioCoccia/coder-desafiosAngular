@@ -1,0 +1,28 @@
+.div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.left,
+.middle,
+.right {
+  padding: 10px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+
+.left {
+  grid-area: left;
+  background-color:#d8f8e1;
+}
+
+
+.middle {
+  grid-area: middle;
+  background-color:#c7f6d4;
+}
+
+
+.right {
+  grid-area: right;
+  background-color:#b7fadf;
+}
